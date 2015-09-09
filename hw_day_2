@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Mike Portfolio</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+</head>
+<body>
+	<header>
+        <nav>
+            <a href="about me.html">About Me</a>
+            </strong> | Portfolio </strong>
+        </nav>
+        <h1>Joe Johnson</h1>
+    </header>
+    <h1> <strong> Experience </strong> </h1>
+    <p> I recently Graduated from a Front End Web Development Course at 
+    </p>
+    <h2> Portfolio </h2>
+    <ul> Web Develeoper </ul>
+</body>
+</html>
