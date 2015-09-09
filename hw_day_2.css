@@ -1,0 +1,43 @@
+body {
+	font-family: sans-serif;
+	font-color: blue;
+	font-size: 18px;
+	margin: 50px auto;
+	border-bottom: 3px solid #222222;
+	border-top: 3px solid #222222;
+	width: 70%;
+}
+
+header {
+	text-align: center;
+	margin-top: 70px;
+}
+
+p {
+	font-size: 15px;
+}
+
+h1 {
+	text-align: center;
+}
+h3 {
+	font-size: 14px;
+	margin-top: 30px;
+}
+
+ul {list-style-type: square;
+}
+
+li {font-weight: bold;
+	font-style: italic;
+	font-size: 12px;
+}
+
+span {font-weight: normal;
+	font-style: normal;
+}
+
+img {
+	margin-left: 40px;
+
+}
