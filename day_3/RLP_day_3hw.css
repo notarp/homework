@@ -1,0 +1,97 @@
+
+body {margin:0 400px 0 400px;
+	font-family: 'Open Sans';
+}
+
+header {
+	background-image: url("header_bg.jpg");
+	height: 300px;
+	background-size: cover;
+  	position: relative;
+  	font-family: 'Open Sans';
+}
+
+h1 { 
+	color: white;
+	font-weight: bold;
+	font-size: 24px;
+	padding-top: 25px;
+	font-family: 'Open Sans';
+	padding-left: 50px;
+}
+
+.getitnow {
+	background-color: yellow;
+	color: blue;
+	margin: 0 auto;
+}
+
+h2 {
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+.benefits {
+  background-color: #f0efef;
+  padding-left: 50px;
+  padding-top: 65px;
+  padding-bottom: 65px;
+  margin: 0 auto;
+}
+
+div {
+	color: #033048;
+	font-size: 20px;
+}
+
+ul {
+	font-size: 13px;
+}
+
+li {
+	font-size: 13px;
+	padding-left: 30px;
+}
+
+.testimonial {
+  background-image: url("testimonial_bg.jpg");
+  height: 100px;
+  font-style: italic;
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  padding-top: 65px;
+  padding-bottom: 65px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.sign_up {
+  height: 30px;
+  background-color: #f9e42e;
+  font-weight: bold;
+  font-size: 16px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 28px;
+  color: white;
+}
+
+button {
+	background-color: #033048;
+	margin: 0 auto;
+	color: white;
+	border-radius: 5px;
+}
+
+footer {
+	background-color: #121212;
+	font-weight: bold;
+	font-size: 24px;
+	color: yellow;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	text-align: center;
+}
